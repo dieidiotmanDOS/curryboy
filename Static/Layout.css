@@ -1,0 +1,31 @@
+html {background: #111111}
+
+h1 {
+padding: 10px;
+background: black;
+border-style: solid;
+margin: -10px;
+position:relative;
+top: 1px;
+color: white;
+}
+
+.x {
+padding: 10px;
+color: white;
+background: #010101 ;
+margin: -10px;
+border-style: dashed solid solid solid;
+position:relative;
+top: 3px;
+}
+
+.y {
+color: white;
+background: #800000 ;
+position:relative;
+top: 103px;
+left: 25px;
+width: 420px;
+border-style: solid
+}
